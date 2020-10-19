@@ -25,7 +25,7 @@ Spacegame-Style (kinda like Astoroids)
   sudo apt-get install freeglut3-dev
   ```
   glut (to old and not supported scince 1998)  
-  make
+  make  
   installation:
   ```
   sudo apt-get install build-essential
