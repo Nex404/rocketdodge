@@ -59,6 +59,5 @@ Spacegame-Style (kinda like Astoroids)
   h = hard  
   k = korean || very hard  
 
-## Präsentation
-Link: https://docs.google.com/presentation/d/1_qVuddzypWkR3py_6zhUuw3ZJDF18VXQHIEZTg2Nvdo/edit?usp=sharing
+
 
